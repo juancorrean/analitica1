@@ -3,6 +3,6 @@ plotly
 streamlit
 datetime
 openpyxl
-Pydeck
+pydeck==0.7.1
 
 
