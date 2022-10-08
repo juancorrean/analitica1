@@ -4,5 +4,5 @@ streamlit
 datetime
 openpyxl
 pydeck==0.7.1
-
+streamlit_option_menu
 
